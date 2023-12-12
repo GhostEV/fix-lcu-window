@@ -130,13 +130,13 @@ namespace Fix_LCU_Window
 
         static void PrintCopyright()
         {
-            Console.WriteLine("------");
-            Console.WriteLine("> [ 英雄联盟客户端疑难杂症解决方案 ]");
-            Console.WriteLine("> Fix LCU Window -- " + GetVersion());
-            Console.WriteLine("------");
-            Console.WriteLine("> Github: https://github.com/LeagueTavern/fix-lcu-window");
-            Console.WriteLine("> Bilibili: Butter_Cookies");
-            Console.WriteLine("> Code by LeagueTavern");
+            //Console.WriteLine("------");
+            //Console.WriteLine("> [ 英雄联盟客户端疑难杂症解决方案 ]");
+            //Console.WriteLine("> Fix LCU Window -- " + GetVersion());
+            //Console.WriteLine("------");
+            //Console.WriteLine("> Github: https://github.com/LeagueTavern/fix-lcu-window");
+            //Console.WriteLine("> Bilibili: Butter_Cookies");
+            //Console.WriteLine("> Code by LeagueTavern");
         }
 
         static string GetVersion()
